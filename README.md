@@ -153,3 +153,4 @@ Se quiser colaborar ou apenas entrar em contato, bora conversar! 😉
 
 ## 🐍 Snake Animation
 ![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+[readme](https://github-readme-stats.vercel.app/api/pin/?username=EdesioRodrigues&repo=EdesioRodrigues&theme=react)(https://github.com/EdesioRodrigues/EdesioRodrigues)
