@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/EdesioRodrigues?tab=repositories&sort=stargazers">
     <img 
       alt="Total de estrelas" 
