@@ -152,6 +152,6 @@ Se quiser colaborar ou apenas entrar em contato, bora conversar! 😉
 ---
 
 ## 🐍 Snake Animation
-![Snake animation](https://raw.githubusercontent.com/EdesioRodrigues/edesiorodrigues/main/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
 
 ---
