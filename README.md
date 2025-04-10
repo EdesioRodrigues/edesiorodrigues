@@ -152,5 +152,9 @@ Se quiser colaborar ou apenas entrar em contato, bora conversar! 😉
 ---
 
 ## 🐍 Snake Animation
-![snake gif](https://github.com/EdesioRodrigues/edesiorodrigues/blob/output/github-contribution-grid-snake.svg)
-[readme](https://github-readme-stats.vercel.app/api/pin/?username=EdesioRodrigues&repo=edesiorodrigues&theme=react)(https://github.com/EdesioRodrigues/edesiorodrigues)
+![Snake animation](https://raw.githubusercontent.com/EdesioRodrigues/edesiorodrigues/main/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📌 Repositório em Destaque
+[![Repositório EdesioRodrigues](https://github-readme-stats.vercel.app/api/pin/?username=EdesioRodrigues&repo=edesiorodrigues&theme=react)](https://github.com/EdesioRodrigues/edesiorodrigues)
