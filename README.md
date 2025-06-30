@@ -26,12 +26,6 @@ Um Dev com foco em **Python/Django**, apaixonado por resolver problemas com cód
 ### 📊 Estatísticas
 <p align="left">
   <img 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://EdesioRodrigues.vercel.app/api?username=EdesioRodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" 
-  />
-  <img 
     alt="Top Linguagens" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdesioRodrigues&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
