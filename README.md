@@ -27,11 +27,11 @@ Um Dev com foco em **Python/Django**, apaixonado por resolver problemas com cód
 <div align="left">
   <img 
     height="200" 
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=donut&theme=tokyonight&langs_count=5&custom_title=Minhas%20Linguagens&locale=pt-br" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EdesioRodrigues&layout=donut&theme=tokyonight&langs_count=5&custom_title=Minhas%20Linguagens&locale=pt-br" 
   />
   <img 
     height="200" 
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=SEU_USUARIO_AQUI&theme=tokyonight&show_icons=true&locale=pt-br&custom_title=Estatísticas%20do%20GitHub" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=EdesioRodrigues&theme=tokyonight&show_icons=true&locale=pt-br&custom_title=Estatísticas%20do%20GitHub" 
   />
 </div>
 ---
