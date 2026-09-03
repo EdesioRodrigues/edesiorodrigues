@@ -25,11 +25,8 @@ Um Dev com foco em **Python/Django**, apaixonado por resolver problemas com cód
 
 ### 📊 Estatísticas
 <p align="left">
- <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,node,python,git" />
-</a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EdesioRodrigues&theme=tokyonight" alt="Linguagens por Repositório" />
 </p>
-
 ---
 
 ## 🚀 Tech Stack
