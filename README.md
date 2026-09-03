@@ -25,7 +25,9 @@ Um Dev com foco em **Python/Django**, apaixonado por resolver problemas com cód
 
 ### 📊 Estatísticas
 <p align="left">
-  <img alt="Top Linguagens" height="200" src="github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EdesioRodrigues&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" />
+ <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,node,python,git" />
+</a>
 </p>
 
 ---
